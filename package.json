@@ -13,7 +13,11 @@
     "directory": "git@github.com:futuraprime/rehype-figure-title.git"
   },
   "keywords": [
-    "rehype"
+    "rehype",
+    "rehype-plugin",
+    "unifiedjs",
+    "html-figure",
+    "html-figcaption"
   ],
   "author": "Evan Hensleigh <futuraprime@gmail.com>",
   "license": "MIT",
